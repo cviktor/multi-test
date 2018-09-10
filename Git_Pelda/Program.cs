@@ -10,7 +10,7 @@ namespace Git_Pelda
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Person");
+            Console.WriteLine("Hello Person modified");
         }
     }
 }
