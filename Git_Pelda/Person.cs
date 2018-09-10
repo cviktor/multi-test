@@ -11,5 +11,6 @@ namespace Git_Pelda
         public string Name { get; set; }
         public int Age { get; set; }
         public bool Male { get; set; }
+        public int X { get; set; }
     }
 }
