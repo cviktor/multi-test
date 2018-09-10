@@ -8,5 +8,6 @@ namespace Git_Pelda
 {
     class Person
     {
+        public string Name { get; set; }
     }
 }
