@@ -8,5 +8,6 @@ namespace Git_Pelda
 {
     class Letters
     {
+        public string Letter1 { get; set; }
     }
 }
